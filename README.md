@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ####### Backend-flask project #############
 
 process::
@@ -106,3 +107,6 @@ pkill -f app.py
 - `requirements.txt` — Python dependencies
 - `test.sql` — example SQL (if present)
 
+=======
+# Python-Backend-Testing-Main
+>>>>>>> cb02c93859cd5a8f5cdb30260ff975a0215db945
